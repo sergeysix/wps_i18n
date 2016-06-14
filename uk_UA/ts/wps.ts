@@ -326,49 +326,49 @@
     </message>
     <message>
         <source>Col #:</source>
-        <translation type="unfinished"></translation>
+        <translation>Кол.:</translation>
     </message>
     <message>
         <source>W&amp;idth:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ширина:</translation>
     </message>
     <message>
         <source>&amp;Spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ін&amp;тервал</translation>
     </message>
     <message>
         <source>1:</source>
-        <translation type="unfinished"></translation>
+        <translation>1:</translation>
     </message>
 </context>
 <context>
     <name>DlgKxAdvancedLayout</name>
     <message>
         <source>Horizontal</source>
-        <translation type="obsolete">Позем</translation>
+        <translation type="obsolete">Горизонтально</translation>
     </message>
 </context>
 <context>
     <name>DlgKxColumns</name>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Колонки</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Попередні налаштування</translation>
     </message>
     <message>
         <source>&amp;One</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Одна</translation>
     </message>
     <message>
         <source>T&amp;wo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Дві</translation>
     </message>
     <message>
         <source>&amp;Three</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Три</translation>
     </message>
     <message>
         <source>&amp;Left</source>

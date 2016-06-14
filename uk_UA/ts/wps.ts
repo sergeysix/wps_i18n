@@ -372,86 +372,86 @@
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation>По &amp;лівому краю</translation>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"></translation>
+        <translation>По &amp;правому краю</translation>
     </message>
     <message>
         <source>&amp;Number of columns:</source>
-        <translation type="unfinished"></translation>
+        <translation>Кількість колонок</translation>
     </message>
     <message>
         <source>Line &amp;between</source>
-        <translation type="unfinished"></translation>
+        <translation>Лінія &amp;між</translation>
     </message>
     <message>
         <source>Width and spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Ширина та інтервал</translation>
     </message>
     <message>
         <source>&amp;Equal column width</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Рівна ширина колонок</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished">Попередній перегляд</translation>
+        <translation>Попередній перегляд</translation>
     </message>
     <message>
         <source>&amp;Apply to:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Застосувати до:</translation>
     </message>
     <message>
         <source>Start new col&amp;umn</source>
-        <translation type="unfinished"></translation>
+        <translation>Початок нової ко&amp;лонки</translation>
     </message>
 </context>
 <context>
     <name>DlgKxOutlineNumber</name>
     <message>
         <source>Customize Outline Numbered List</source>
-        <translation type="unfinished"></translation>
+        <translation>Налаштувати багаторівневий список</translation>
     </message>
     <message>
         <source>Number format </source>
-        <translation type="unfinished"></translation>
+        <translation>Формат нумерації</translation>
     </message>
     <message>
         <source>Le&amp;vel:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Рівень:</translation>
     </message>
     <message>
         <source>Number f&amp;ormat:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Формат нумерації:</translation>
     </message>
     <message>
         <source>&amp;Number style:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Стиль нумерації:</translation>
     </message>
     <message>
         <source>&amp;Start at:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Почати з:</translation>
     </message>
     <message>
         <source>&amp;Previous level number:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Номер попереднього рівня:</translation>
     </message>
     <message>
         <source>&amp;Font...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Шрифт...</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished">Попередній перегляд</translation>
+        <translation>Попередній перегляд</translation>
     </message>
     <message>
         <source>Advanced(&amp;M)</source>
-        <translation type="unfinished"></translation>
+        <translation>Додатково(&amp;M)</translation>
     </message>
     <message>
         <source>N&amp;umber position</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Положення номера</translation>
     </message>
     <message>
         <source>Left</source>

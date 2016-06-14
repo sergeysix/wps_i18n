@@ -13,7 +13,7 @@
     <name>CTableStyle</name>
     <message>
         <source>Themed Style</source>
-        <translation>Стиль из темы<</translation>
+        <translation>Стиль из темы</translation>
     </message>
     <message>
         <source>Emphasize</source>
@@ -69,7 +69,7 @@
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type>Чергуючі рядки</translation>
+        <translation>Чергуючі рядки</translation>
     </message>
     <message>
         <source>Banded Columns</source>
@@ -77,11 +77,11 @@
     </message>
     <message>
         <source>First Column</source>
-        <translation type>Перший стовпець</translation>
+        <translation>Перший стовпець</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type>Останній стовпець</translation>
+        <translation>Останній стовпець</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>

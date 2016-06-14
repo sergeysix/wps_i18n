@@ -238,7 +238,7 @@
     </message>
     <message>
         <source>Blue-Gray</source>
-        <translation type="unfinished"></translation>
+        <translation>Сіро-блакитний</translation>
     </message>
 </context>
 <context>
@@ -249,7 +249,7 @@
     </message>
     <message>
         <source>&amp;Sentence case</source>
-        <translation type="unfinished"></translation>
+        <translation>Регістр &amp; пропозиції</translation>
     </message>
     <message>
         <source>Half-&amp;width</source>
@@ -273,7 +273,7 @@
     </message>
     <message>
         <source>To&amp;ggle case</source>
-        <translation type="unfinished"></translation>
+        <translation>Пе&amp;реключити регістр</translation>
     </message>
     <message>
         <source>&amp;Hiragana</source>

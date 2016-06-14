@@ -277,52 +277,52 @@
     </message>
     <message>
         <source>&amp;Hiragana</source>
-        <translation type="unfinished"></translation>
+        <translation>Хирагана</translation>
     </message>
     <message>
         <source>&amp;Title case</source>
-        <translation type="unfinished"></translation>
+        <translation>Титульний регістр</translation>
     </message>
 </context>
 <context>
     <name>ColumnsManagerCtrl</name>
     <message>
         <source>%1:</source>
-        <translation type="unfinished">%1:</translation>
+        <translation>%1:</translation>
     </message>
     <message>
         <source>pt, 2, %1,</source>
-        <translation type="unfinished"></translation>
+        <translation>пт, 2, %1,</translation>
     </message>
     <message>
         <source> %1, 1</source>
-        <translation type="unfinished"></translation>
+        <translation> %1, 1</translation>
     </message>
     <message>
         <source>ch, 2, %1,</source>
-        <translation type="unfinished"></translation>
+        <translation>зн, 2, %1,</translation>
     </message>
     <message>
         <source>pt, 2, 0, %1, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>пт, 2, 0, %1, 1</translation>
     </message>
     <message>
         <source>ch, 2, 0, %1, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>зн, 2, 0, %1, 1</translation>
     </message>
 </context>
 <context>
     <name>CustomPreView</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Немає</translation>
     </message>
 </context>
 <context>
     <name>DlgColumnsManager</name>
     <message>
         <source>Columns Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Управління колонками</translation>
     </message>
     <message>
         <source>Col #:</source>

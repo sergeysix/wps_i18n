@@ -455,73 +455,73 @@
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>По лівому краю</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>По центру</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>По правому краю</translation>
     </message>
     <message>
         <source>&amp;Aligned at:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Вирівняно по:</translation>
     </message>
     <message>
         <source>Text position</source>
-        <translation type="unfinished"></translation>
+        <translation>Положення тексту</translation>
     </message>
     <message>
         <source>Ta&amp;b space after:</source>
-        <translation type="unfinished"></translation>
+        <translation type>Відстань між позиціями &amp; табулятора після:</translation>
     </message>
     <message>
         <source>&amp;Indent at:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Відступ:</translation>
     </message>
     <message>
         <source>Le&amp;gal style numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Юридичний стиль нумерації</translation>
     </message>
     <message>
         <source>Lin&amp;k level to style:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Зв'язати рівень зі стилем:</translation>
     </message>
     <message>
         <source>Follo&amp;w number with:</source>
-        <translation type="unfinished"></translation>
+        <translation>Символ &amp;після номера:</translation>
     </message>
     <message>
         <source>Tab character</source>
-        <translation type="unfinished"></translation>
+        <translation>Символ табуляції</translation>
     </message>
     <message>
         <source>Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Пропуск</translation>
     </message>
     <message>
         <source>Nothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Нічого</translation>
     </message>
     <message>
         <source>&amp;Restart numbering after:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Почати нумерацію заново після:</translation>
     </message>
 </context>
 <context>
     <name>FootAndEndnoteSpinBox</name>
     <message>
         <source>%1</source>
-        <translation type="unfinished">%1</translation>
+        <translation>%1</translation>
     </message>
 </context>
 <context>
     <name>KApplication</name>
     <message>
         <source>Loading KUI</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантаженя інтерфейсу користувача</translation>
     </message>
 </context>
 <context>
@@ -529,27 +529,27 @@
     <message>
         <source>Size</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Розмір</translation>
     </message>
     <message>
         <source>Scale</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Масштаб</translation>
     </message>
     <message>
         <source>De&amp;fault for new objects</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>За &amp;замовчуванням для нових об'єктів</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Стиль:</translation>
     </message>
     <message>
         <source>&amp;Dashed:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Штрихова:</translation>
     </message>
     <message>
         <source>&amp;Begin style:</source>

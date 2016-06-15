@@ -631,68 +631,68 @@
     </message>
     <message>
         <source>Pt</source>
-        <translation type="unfinished"></translation>
+        <translation>пт</translation>
     </message>
     <message>
         <source>Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>Writer</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Таблиця</translation>
     </message>
     <message>
         <source>No content</source>
-        <translation type="unfinished"></translation>
+        <translation>Немає змісту</translation>
     </message>
 </context>
 <context>
     <name>KxCaptionDlg</name>
     <message>
         <source>Above selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Над виділеним елементом</translation>
     </message>
     <message>
         <source>Below selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Під виділеним елементом</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Закрити</translation>
+        <translation>Закрити</translation>
     </message>
 </context>
 <context>
     <name>KxCaptionNumberDlg</name>
     <message>
         <source>- (Hyphen)</source>
-        <translation type="unfinished"></translation>
+        <translation>- (Дефіс)</translation>
     </message>
     <message>
         <source>. (Period)</source>
-        <translation type="unfinished"></translation>
+        <translation>. (Крапка)</translation>
     </message>
     <message>
         <source>: (Colon)</source>
-        <translation type="unfinished"></translation>
+        <translation>: (Двокрапка)</translation>
     </message>
     <message>
         <source>— (Em dash)</source>
-        <translation type="unfinished"></translation>
+        <translation>— (Довге тире)</translation>
     </message>
     <message>
         <source>– (En dash)</source>
-        <translation type="unfinished"></translation>
+        <translation>— (Коротке тире)</translation>
     </message>
     <message>
         <source>Heading</source>
-        <translation type="unfinished"></translation>
+        <translation>Заголовок</translation>
     </message>
 </context>
 <context>
     <name>KxCheckSpellingDlg</name>
     <message>
         <source>No Spelling Suggestions</source>
-        <translation type="unfinished"></translation>
+        <translation>Немає пропозицій правопису</translation>
     </message>
     <message>
         <source>No default custom dictionary is found. Please select a custom dictionary in the list and proceed again.</source>

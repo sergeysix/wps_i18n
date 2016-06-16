@@ -345,7 +345,7 @@
     <name>DlgKxAdvancedLayout</name>
     <message>
         <source>Horizontal</source>
-        <translation type="obsolete">Горизонтально</translation>
+        <translation>Горизонтально</translation>
     </message>
 </context>
 <context>
@@ -559,17 +559,17 @@
     <message>
         <source>&amp;End style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Стиль кінця:</translation>
     </message>
     <message>
         <source>Begin s&amp;ize:</source>
         <comment>formatshape</comment>
-        <translation>&amp;Стиль кінця:</translation>
+        <translation>Початковий &amp;розмір:</translation>
     </message>
     <message>
         <source>End si&amp;ze:</source>
         <comment>formatshape</comment>
-        <translation>Початковий &amp;розмір:</translation>
+        <translation>Кінцевий &amp;розмір:</translation>
     </message>
 </context>
 <context>
@@ -696,147 +696,147 @@
     </message>
     <message>
         <source>No default custom dictionary is found. Please select a custom dictionary in the list and proceed again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося знайти словника за замовчуванням. Виберіть словника зі списку і повторіть.</translation>
     </message>
     <message>
         <source>An error occurred when adding new words.</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка при додаванні нових слів.</translation>
     </message>
     <message>
         <source>A&amp;lways suggest corrections</source>
-        <translation type="unfinished"></translation>
+        <translation>Завжди пропонувати варіанти виправлення (&amp;L)</translation>
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
-        <translation type="unfinished"></translation>
+        <translation type>Пропускати слова з &amp; ПРОПИСНИХ букв</translation>
     </message>
     <message>
         <source>Ignore words that contain num&amp;bers</source>
-        <translation type="unfinished"></translation>
+        <translation type>Пропускати слова, що містять &amp; цифри</translation>
     </message>
     <message>
         <source>Check spelling is complete.</source>
-        <translation type="unfinished"></translation>
+        <translation type>Перевірка правопису завершена.</translation>
     </message>
     <message>
         <source>Writer finished checking the selection. Do you want to continue checking the remainder of the document?</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевірка правопису виділеного тексту завершена. Продовжити перевірку решти документа?</translation>
     </message>
     <message>
         <source>Cannot check spelling on original revision status</source>
-        <translation type="unfinished"></translation>
+        <translation>Неможливо перевірити правопис в початковому стані виправлень</translation>
     </message>
 </context>
 <context>
     <name>KxCheckboxFormFieldDlg</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ні</translation>
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Введене значення має бути між% 1 і% 2.</translation>
     </message>
     <message>
         <source>The bookmark name is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неприпустиме ім'я закладки.</translation>
     </message>
 </context>
 <context>
     <name>KxColumnsDlg</name>
     <message>
         <source>Selected text</source>
-        <translation type="unfinished"></translation>
+        <translation>Виділений текст</translation>
     </message>
     <message>
         <source>Selected sections</source>
-        <translation type="unfinished"></translation>
+        <translation>Виділені розділи</translation>
     </message>
     <message>
         <source>Whole document</source>
-        <translation type="unfinished"></translation>
+        <translation>Весь документ</translation>
     </message>
     <message>
         <source>This point forward</source>
-        <translation type="unfinished"></translation>
+        <translation>До кінця документа</translation>
     </message>
     <message>
         <source>This section</source>
-        <translation type="unfinished"></translation>
+        <translation>Цей розділ</translation>
     </message>
     <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
-        <translation type="unfinished"></translation>
+        <translation>Значення лівого і правого полів, проміжку між стовпчиками або відступів абзаців занадто великі для заданої ширини сторінки в деяких розділах.</translation>
     </message>
 </context>
 <context>
     <name>KxCombineCharactersDlg</name>
     <message>
         <source>Value must be between 1 and 16838.</source>
-        <translation type="unfinished"></translation>
+        <translation>Значення має бути між 1 і 16383.</translation>
     </message>
     <message>
         <source>What you entered is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невірне введення.</translation>
     </message>
 </context>
 <context>
     <name>KxContentControlDlg</name>
     <message>
         <source>Group Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Властивості групи</translation>
     </message>
     <message>
         <source>Bounding Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Обмежуючий прямокутник</translation>
     </message>
     <message>
         <source>Start/End Tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкриваючий і закриваючий тег</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ні</translation>
     </message>
     <message>
         <source>(All Categories)</source>
-        <translation type="unfinished"></translation>
+        <translation>(всі категорії)</translation>
     </message>
     <message>
         <source>Western</source>
-        <translation type="unfinished"></translation>
+        <translation>Європейський</translation>
     </message>
     <message>
         <source>Text (same as display)</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст (як відображається)</translation>
     </message>
     <message>
         <source>Date (xsd:date)</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата (xsd:date)</translation>
     </message>
     <message>
         <source>Date and Time (xsd:dateTime)</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата і час (xsd: датаЧас)</translation>
     </message>
     <message>
         <source>Chinese (Taiwan)</source>
-        <translation type="unfinished"></translation>
+        <translation>Китайська (Тайвань)</translation>
     </message>
     <message>
         <source>English (United States)</source>
-        <translation type="unfinished"></translation>
+        <translation>Англійська (США)</translation>
     </message>
     <message>
         <source>Japanese (Japan)</source>
-        <translation type="unfinished"></translation>
+        <translation>Японський (Японія)</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"></translation>
+        <translation>В'єтнамський</translation>
     </message>
     <message>
         <source>Chinese (PRC)</source>
-        <translation type="unfinished"></translation>
+        <translation>Китайська (КНР)</translation>
     </message>
 </context>
 <context>

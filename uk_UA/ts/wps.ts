@@ -21,7 +21,7 @@
         <translation>Сірий-10%</translation>
     </message>
     <message>
-        <source>Gray-12.5%</source>
+        <source>Gray-12.5</source>
         <translation>Сірий-12.5%</translation>
     </message>
     <message>
@@ -942,7 +942,7 @@
     </message>
     <message>
         <source>Paragraph number (full context)</source>
-        <translation type="unfinished"></translation>
+        <translation>Номер абзацу (з контекстом)</translation>
     </message>
     <message>
         <source>Paragraph text</source>

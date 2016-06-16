@@ -843,102 +843,102 @@
     <name>KxContentListEntriesDlg</name>
     <message>
         <source>Add Choice</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати варіант</translation>
     </message>
     <message>
         <source>Modify Choice</source>
-        <translation type="unfinished"></translation>
+        <translation>Змінити варіант</translation>
     </message>
     <message>
         <source>Display &amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;коротка назва:</translation>
     </message>
     <message>
         <source>&amp;Value:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Значення:</translation>
     </message>
     <message>
         <source>Display name cannot be blank.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ім'я, що відображається, не може бути порожнім.</translation>
     </message>
     <message>
         <source>Wps</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>An entry with the same value already exists - each entry must spacify a unique value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Запис з таким значенням вже існує, кожен запис повинен містити унікальне значення.</translation>
     </message>
     <message>
         <source>An entry with the same display name already exists - each entry must spacify a display name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Запис з таким ім'ям, що відображається, вже існує, кожен запис повинен містити ім'я, що відображається.</translation>
     </message>
 </context>
 <context>
     <name>KxContentsDlg</name>
     <message>
         <source>Do you want to replace the selected table of contents?</source>
-        <translation type="unfinished"></translation>
+        <translation>Хочете замінити виділений зміст?</translation>
     </message>
     <message>
         <source>Input must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Введення має бути між %1 і %2</translation>
     </message>
     <message>
         <source>Heading</source>
-        <translation type="unfinished"></translation>
+        <translation>Заголовок</translation>
     </message>
 </context>
 <context>
     <name>KxContentsOptionsDlg</name>
     <message>
         <source>Heading</source>
-        <translation type="unfinished"></translation>
+        <translation>Заголовок</translation>
     </message>
     <message>
         <source>Input must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Введення має бути між %1 і %2</translation>
     </message>
 </context>
 <context>
     <name>KxConvertTabletoTextDlg</name>
     <message>
         <source>You must type a character for the custom separator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Необхідно ввести символ для користувацького роздільника.</translation>
     </message>
 </context>
 <context>
     <name>KxCoverSectionGalleryCommand</name>
     <message>
         <source>Remove Cover Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалення титульної сторінки</translation>
     </message>
     <message>
         <source>Cover Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Титульні сторінки</translation>
     </message>
     <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
-        <translation type="unfinished"></translation>
+        <translation>Значення лівого і правого полів, проміжку між стовпцями або відступів абзаців занадто великі для заданої ширини сторінки в деяких розділах.</translation>
     </message>
 </context>
 <context>
     <name>KxCrossReferenceDlg</name>
     <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Вставити</translation>
     </message>
     <message>
         <source>Page number</source>
-        <translation type="unfinished"></translation>
+        <translation type>Номер сторінки</translation>
     </message>
     <message>
         <source>Paragraph number</source>
-        <translation type="unfinished"></translation>
+        <translation>Номер абзацу</translation>
     </message>
     <message>
         <source>Paragraph number (no context)</source>
-        <translation type="unfinished"></translation>
+        <translation>Номер абзацу (без контексту)</translation>
     </message>
     <message>
         <source>Paragraph number (full context)</source>
